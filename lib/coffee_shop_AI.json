@@ -1,0 +1,323 @@
+{
+  "Categories": {
+    "cat1": {
+      "id": "1",
+      "name": "Coffee"
+    },
+    "cat2": {
+      "id": "2",
+      "name": "Drinks"
+    },
+    "cat3": {
+      "id": "3",
+      "name": "Desserts"
+    },
+    "cat4": {
+      "id": "4",
+      "name": "Good Eat"
+    }
+  },
+  "Products": {
+    "prod1": {
+      "id": "1",
+      "name": "Espresso",
+      "price": 3.5,
+      "image": "espresso.jpg",
+      "category": "1"
+    },
+    "prod2": {
+      "id": "2",
+      "name": "Cappuccino",
+      "price": 4.0,
+      "image": "cappuccino.jpg",
+      "category": "1"
+    },
+    "prod3": {
+      "id": "3",
+      "name": "Latte",
+      "price": 5.5,
+      "image": "latte.jpg",
+      "category": "1"
+    },
+    "prod4": {
+      "id": "4",
+      "name": "Flat White",
+      "price": 4.7,
+      "image": "flat_white.jpg",
+      "category": "1"
+    },
+    "prod5": {
+      "id": "5",
+      "name": "Americano",
+      "price": 3.5,
+      "image": "americano.jpg",
+      "category": "1"
+    },
+    "prod6": {
+      "id": "6",
+      "name": "Macchiato",
+      "price": 4.2,
+      "image": "macchiato.jpg",
+      "category": "1"
+    },
+    "prod7": {
+      "id": "7",
+      "name": "Mocha",
+      "price": 5.9,
+      "image": "mocha.jpg",
+      "category": "1"
+    },
+    "prod8": {
+      "id": "8",
+      "name": "Caramel Latte",
+      "price": 5.2,
+      "image": "caramel_latte.jpg",
+      "category": "1"
+    },
+    "prod9": {
+      "id": "9",
+      "name": "Vanilla Latte",
+      "price": 5.2,
+      "image": "vanilla_latte.jpg",
+      "category": "1"
+    },
+    "prod10": {
+      "id": "10",
+      "name": "Turkish Coffee",
+      "price": 3.6,
+      "image": "turkish_coffee.jpg",
+      "category": "1"
+    },
+    "prod11": {
+      "id": "11",
+      "name": "Affogato",
+      "price": 5.5,
+      "image": "affogato.jpg",
+      "category": "1"
+    },
+    "prod12": {
+      "id": "12",
+      "name": "Irish Coffee",
+      "price": 6.5,
+      "image": "irish_coffee.jpg",
+      "category": "1"
+    },
+    "prod13": {
+      "id": "13",
+      "name": "Iced Coffee",
+      "price": 6.0,
+      "image": "iced.jpg",
+      "category": "2"
+    },
+    "prod14": {
+      "id": "14",
+      "name": "Mocha Frappe",
+      "price": 6.8,
+      "image": "frappe.jpg",
+      "category": "2"
+    },
+    "prod15": {
+      "id": "15",
+      "name": "Hot Chocolate",
+      "price": 3.5,
+      "image": "choco.jpg",
+      "category": "2"
+    },
+    "prod16": {
+      "id": "16",
+      "name": "Iced Latte",
+      "price": 5.5,
+      "image": "iced_latte.jpg",
+      "category": "2"
+    },
+    "prod17": {
+      "id": "17",
+      "name": "Caramel Frappe",
+      "price": 5.5,
+      "image": "caramel_frappe.jpg",
+      "category": "2"
+    },
+    "prod18": {
+      "id": "18",
+      "name": "Matcha Latte",
+      "price": 6.9,
+      "image": "matcha.jpg",
+      "category": "2"
+    },
+    "prod19": {
+      "id": "19",
+      "name": "Fresh Orange Juice",
+      "price": 5.8,
+      "image": "orange_juice.jpg",
+      "category": "2"
+    },
+    "prod20": {
+      "id": "20",
+      "name": "Lemonade",
+      "price": 5.2,
+      "image": "lemonade.jpg",
+      "category": "2"
+    },
+    "prod21": {
+      "id": "21",
+      "name": "Milkshake Vanille",
+      "price": 6.5,
+      "image": "milkshake.jpg",
+      "category": "2"
+    },
+    "prod22": {
+      "id": "22",
+      "name": "Smoothie Fraise",
+      "price": 6.8,
+      "image": "smoothie_fraise.jpg",
+      "category": "2"
+    },
+    "prod23": {
+      "id": "23",
+      "name": "Iced Tea Pêche",
+      "price": 5.5,
+      "image": "iced_tea.jpg",
+      "category": "2"
+    },
+    "prod24": {
+      "id": "24",
+      "name": "Croissant",
+      "price": 1.5,
+      "image": "croissant.jpg",
+      "category": "3"
+    },
+    "prod25": {
+      "id": "25",
+      "name": "Muffin",
+      "price": 2.8,
+      "image": "muffin.jpg",
+      "category": "3"
+    },
+    "prod26": {
+      "id": "26",
+      "name": "Cheesecake",
+      "price": 7.8,
+      "image": "cheesecake.jpg",
+      "category": "3"
+    },
+    "prod27": {
+      "id": "27",
+      "name": "Brownie",
+      "price": 3.0,
+      "image": "brownie.jpg",
+      "category": "3"
+    },
+    "prod28": {
+      "id": "28",
+      "name": "Tiramisu",
+      "price": 6.5,
+      "image": "tiramisu.jpg",
+      "category": "3"
+    },
+    "prod29": {
+      "id": "29",
+      "name": "Pancakes",
+      "price": 6.9,
+      "image": "pancakes.jpg",
+      "category": "3"
+    },
+    "prod30": {
+      "id": "30",
+      "name": "Crème Brûlée",
+      "price": 4.2,
+      "image": "creme_brulee.jpg",
+      "category": "3"
+    },
+    "prod31": {
+      "id": "31",
+      "name": "Cookie Chocolat",
+      "price": 3.2,
+      "image": "cookie.jpg",
+      "category": "3"
+    },
+    "prod32": {
+      "id": "32",
+      "name": "Waffle Nutella",
+      "price": 6.8,
+      "image": "waffle.jpg",
+      "category": "3"
+    },
+    "prod33": {
+      "id": "33",
+      "name": "Donut Fraise",
+      "price": 3.5,
+      "image": "donut.jpg",
+      "category": "3"
+    },
+    "prod34": {
+      "id": "34",
+      "name": "Cake au Citron",
+      "price": 4.4,
+      "image": "cake_citron.jpg",
+      "category": "3"
+    },
+    "prod35": {
+      "id": "35",
+      "name": "Sandwich Jambon",
+      "price": 4.5,
+      "image": "sandwich_jambon.jpg",
+      "category": "4"
+    },
+    "prod36": {
+      "id": "36",
+      "name": "Bagel Saumon",
+      "price": 10.0,
+      "image": "bagel_saumon.jpg",
+      "category": "4"
+    },
+    "prod37": {
+      "id": "37",
+      "name": "Wrap Poulet",
+      "price": 5.2,
+      "image": "wrap_poulet.jpg",
+      "category": "4"
+    },
+    "prod38": {
+      "id": "38",
+      "name": "Salade César",
+      "price": 4.8,
+      "image": "salade_cesar.jpg",
+      "category": "4"
+    },
+    "prod39": {
+      "id": "39",
+      "name": "Burrito",
+      "price": 5.5,
+      "image": "burrito.jpg",
+      "category": "4"
+    },
+    "prod40": {
+      "id": "40",
+      "name": "Croque Monsieur",
+      "price": 4.7,
+      "image": "croque_monsieur.jpg",
+      "category": "4"
+    },
+    "prod41": {
+      "id": "41",
+      "name": "Quiche Lorraine",
+      "price": 5.0,
+      "image": "quiche_lorraine.jpg",
+      "category": "4"
+    },
+    "prod42": {
+      "id": "42",
+      "name": "Tarte aux légumes",
+      "price": 4.2,
+      "image": "tarte_legumes.jpg",
+      "category": "4"
+    },
+    "prod43": {
+      "id": "43",
+      "name": "Hot Dog",
+      "price": 3.8,
+      "image": "hotdog.jpg",
+      "category": "4"
+    }
+  }
+}

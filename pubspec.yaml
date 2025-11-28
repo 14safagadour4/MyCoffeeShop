@@ -1,0 +1,49 @@
+name: coffee_shop_ai
+description: Coffee Shop App with AI features
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Fonts
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
+
+  # WebView (si tu veux garder l’ancien chatbot)
+  webview_flutter: ^4.4.2
+
+  # QR Scanner
+  mobile_scanner: ^7.1.3
+
+  # Firebase
+  firebase_core: ^4.2.1
+  firebase_database: ^12.1.0
+  cloud_firestore: ^6.1.0
+  firebase_auth: ^6.1.2
+  firebase_analytics: ^12.0.4
+  uuid: ^3.0.7
+
+  # API + ENV
+  http: ^1.1.0
+  flutter_dotenv: ^5.1.0
+
+  # Utils
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - .env

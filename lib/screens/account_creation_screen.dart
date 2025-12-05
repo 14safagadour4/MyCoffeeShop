@@ -15,8 +15,7 @@ class _AccountCreationScreenState extends State<AccountCreationScreen> {
   final _firstNameController = TextEditingController();
   final _lastNameController = TextEditingController();
   final _emailController = TextEditingController();
-  final _phoneController = TextEditingController();
-
+// me created auth
   String? _selectedTable;
   bool _isLoading = false;
 
